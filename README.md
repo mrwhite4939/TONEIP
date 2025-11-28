@@ -1,4 +1,4 @@
-https://github.com/mrwhite4939/TONEIP/blob/main/TONEIP.jpg
+![TONEIP](https://github.com/mrwhite4939/TONEIP/blob/main/TONEIP.jpg)
 # TONEIP — IP Geolocation Tool
 
 TONEIP is an open-source and lightweight IP Geolocation utility created by **MrWhite4939**.  
